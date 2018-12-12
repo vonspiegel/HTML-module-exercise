@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+body {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 3.5em;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+header {
+  background-color: rgb(32, 101, 136);
+  margin: 0;
+  padding: 15px 0;
+}
+
+.top-left {
+  padding: 0;
+  margin: 12px 0;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.lnk {
+  color: white;
+  text-decoration: none;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.npm-logo {
+  float: left;
+  width: 8%;
+  height: auto;
+  margin: 0 10px;
+}
+
+.searching-bar {
+  float:left;
+  width: 70%;
+  height: 25px;
+  background-color: rgb(31, 82, 111);
+}
+
+.registration li {
+  list-style-type: none;
+  float: left;
+  size: 20px;
+  padding: 0 5px;
+  color: rgba(255,255,255,0.8);
+}
+
+.bear-logo {
+  float: left;
+  width: 5%;
+  height: auto;
+}
+
+.container-1 {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  height: 400px;
+  
+}
+
+.text-header {
+  position: absolute;
+  margin: 300px;
+  float: left;
+}
+
+.container-2 {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgb(39, 53, 71);
+  padding: -100px 0 0 0;
+}
+
+.collaboration {
+  float: left;
+  margin: 0 250px;
+  padding: 40px 0;
+}
+
+.text-collaboration {
+  float: right;
+  color: white;
+  margin: auto 40px auto 10px;
+}
+
+.btn {
+  display: block;
+  color: white;
+  background-color: rgb(203, 56, 55);
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+  border-radius: 27px;
+}
+
+.forklift {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width; 100%;
+  height: auto;
+}
+
+.text-fork {
+  float: left;
+  margin: auto 400px auto 50px;
+}
+
+.btn-blue {
+  display: block;
+  color: white;
+  background-color: rgb(49, 68, 88);
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+  border-radius: 27px;
+}
+
+#building-blocks {
+  font-size: 20px;
+  text-align: center;
+  margin: 10px auto 0 auto;
+}
+
+#million-code {
+  font-size: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 75px 0;
+}
+
+.service-box {
+  border: 0 solid white;
+  text-align: center;
+  width: 20%;
+  float: left;
+  box-sizing: content-box;
+  line-height: 200%;
+  margin: 0 auto;
+}
+
+.apps {
+  font-weight: bold;
+  color: rgb(203, 56, 55);
+  text-decoration: none;
+}
